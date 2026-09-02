@@ -1,0 +1,7 @@
+{
+  "name": "Профориентация AI",
+  "description": "Интеллектуальный сервис подбора профессий для подростков и студентов на основе психологического теста и анализа искусственного интеллекта.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
